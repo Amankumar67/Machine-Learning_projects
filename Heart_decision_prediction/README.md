@@ -28,14 +28,9 @@ In this project, multiple Machine Learning classification algorithms are trained
 ```
 Heart-Disease-Prediction/
 │
-├── data/
-│   └── heart.csv
+├── heart.csv
 │
-├── models/
-│   └── heart_disease_model.pkl
-│
-├── notebook/
-│   └── Heart_Disease_Prediction.ipynb
+├── Heart_Disease_Prediction.ipynb
 │
 ├── images/
 │   ├── correlation_heatmap.png
@@ -45,7 +40,6 @@ Heart-Disease-Prediction/
 │
 ├── requirements.txt
 ├── README.md
-└── LICENSE
 ```
 
 ---
